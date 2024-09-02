@@ -1,0 +1,19 @@
+.bg
+{
+    height: 31.25rem;
+    background-image: url("me.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: rgba(0, 56, 0, 0.61);
+}
+
+.fit
+{
+    width: fit-content;
+}
+.top30
+{
+    top: 30%;
+    left: 5%;
+}
